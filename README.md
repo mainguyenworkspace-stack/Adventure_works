@@ -30,9 +30,8 @@ profitability, order behavior, and seasonality that differ by market.
 
 ## Dashboard Preview
 
-<img width="1510" height="514" alt="Screenshot 2026-05-12 165432" src="https://github.com/user-attachments/assets/d272afdd-28f4-45b4-a18f-7fe293258a3b" /><img width="1118" height="700" alt="Screenshot 2026-05-12 165149" src="https://github.com/user-attachments/assets/fc0b89a9-9591-41e3-91d1-77219b4a35fc" />
-
-
+<img width="1118" height="700" alt="Screenshot 2026-05-12 165149" src="https://github.com/user-attachments/assets/562a7005-423e-4116-8fea-b053b6c47178" />
+<img width="1510" height="514" alt="Screenshot 2026-05-12 165432" src="https://github.com/user-attachments/assets/d28ffb03-8f7d-44b2-a5c9-f3bfe388a34d" />
 
 
 ---
